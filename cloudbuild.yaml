@@ -46,7 +46,7 @@ steps:
     args:
       [
         'push',
-        'me-central1-docker.pkg.dev/sleepr-395913/vnotifications/production',
+        'me-central1-docker.pkg.dev/sleepr-395913/notifications/production',
       ]
 
   # Payments
